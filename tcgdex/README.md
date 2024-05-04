@@ -4,6 +4,7 @@ One prize only.
 
 <details>
   <summary>Kanto</summary>
+
   * Florizare
   * Dracaufeu
   * Chrisacier 
@@ -81,6 +82,7 @@ One prize only.
 
 <details>
   <summary>Johto</summary>
+
   * Germignon
   * Meganium 
   * Macronium 
@@ -129,6 +131,7 @@ One prize only.
 
 <details>
   <summary>Hoenn</summary>
+
   * Massko
   * Jungko
   * Galifeu
@@ -201,6 +204,7 @@ One prize only.
 
 <details>
   <summary>Sinnoh</summary>
+
   * Simiabraz
   * Pingoleon
   * Crikzik
@@ -252,6 +256,7 @@ One prize only.
 
 <details>
   <summary>Unys</summary>
+
   * Vipelierre
   * Lianaja
   * Majaspic
@@ -334,6 +339,7 @@ One prize only.
 
 <details>
   <summary>Kalos</summary>
+
   * Boguérisse
   * Blindépique
   * Grenousse
@@ -370,6 +376,7 @@ One prize only.
 
 <details>
   <summary>Alola</summary>
+
   * Effleche
   * Archeduc
   * Felinferno
@@ -447,6 +454,7 @@ One prize only.
 
 <details>
   <summary>Galar</summary>
+
   * Badabouin
   * Gorythmic
   * Flambino
@@ -513,6 +521,7 @@ One prize only.
 
 <details>
   <summary>Hisui</summary>
+
   * Cerbylin
   * Hachecateur
   * Ursaking
@@ -537,6 +546,7 @@ One prize only.
 
 <details>
   <summary>Paldea</summary>
+
   * Miascarade
   * Flamigator
   * Ampibidou
