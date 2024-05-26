@@ -26,7 +26,6 @@ One prize only.
   * Nidoran
   * Nidorina 
   * Nidoking 
-  * Goupix 
   * Feunard 
   * Raflesia
   * Mimitos 
@@ -34,7 +33,6 @@ One prize only.
   * Persian
   * Arcanin
   * Tetarte
-  * Abra
   * Kadabra 
   * Alakazam
   * Mackogneur
@@ -62,7 +60,7 @@ One prize only.
   * Kangourex 
   * Poissirene 
   * Poissonroi 
-  * M.mime
+  * M.mime (normal)
   * Scarabrute
   * Tauros 
   * Aquali
@@ -160,7 +158,6 @@ One prize only.
   * Azurill
   * Skity
   * Delcatty
-  * Galekid
   * Galeking
   * Negapi
   * Luciole
@@ -183,7 +180,6 @@ One prize only.
   * Kekleon
   * Teraclop
   * Okéoké
-  * Oniglali
   * Obali
   * Phogleur
   * Kaimorse
@@ -205,7 +201,6 @@ One prize only.
 <details>
   <summary>Sinnoh</summary>
 
-  * Simiabraz
   * Pingoleon
   * Crikzik
   * Melocrik
@@ -245,9 +240,7 @@ One prize only.
   * Crefodet
   * Dialgo (forme originelle)
   * Palkia (les 2 formes)
-  * Heatran
   * Giratina (les 2 formes)
-  * Phione
   * Darkrai
   * Shaimin (forme hérisson)
   * Arceus
@@ -277,16 +270,12 @@ One prize only.
   * Geolithe
   * Chovsourir
   * Minotaupe
-  * Charpenti
-  * Ouvrifier
   * Betochef
   * Tritonde
   * Crapuscule
   * Judokrak
   * Larveyette
   * Manternelle
-  * Venipatte
-  * Scobolide
   * Brutapode
   * Fragilady
   * Bargantua (Rouge & bleu)
@@ -456,7 +445,6 @@ One prize only.
   <summary>Galar</summary>
 
   * Badabouin
-  * Gorythmic
   * Flambino
   * Lapyro
   * Pyrobut
@@ -508,13 +496,11 @@ One prize only.
   * Ramoloss
   * Flagadoss
   * Roigada
-  * M. Mime
   * Artikodin
   * Elektor
   * Sulfura
   * Zigzaton
   * Lineon
-  * Darumaron
   * Darumacho (les 2 formes)
   * Tutafeh
 </details>
@@ -557,14 +543,10 @@ One prize only.
   * Pelage sablé
   * Mite de fer
   * Gromago
-  * Yuyu
   * Serpente eau
   * Vert de fer
   * Poltchageist
-  * Theffroyable
-  * Felicanis
   * Fortusimia
-  * Favianos
   * Ogerpon (toutes les formes)
   * Pondralugon
   * Pomdorochi
