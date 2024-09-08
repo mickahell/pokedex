@@ -62,7 +62,6 @@ One prize only.
   * Poissonroi 
   * M.mime (normal)
   * Scarabrute
-  * Tauros 
   * Aquali
   * Voltali 
   * Pyroli 
@@ -88,9 +87,6 @@ One prize only.
   * Typhlosion
   * Fouinette
   * Fouinard
-  * Hoothoot
-  * Coxy 
-  * Coxyclac
   * Pichu 
   * Toudoudou 
   * Pharamp 
@@ -101,7 +97,6 @@ One prize only.
   * Axoloto 
   * Maraiste
   * Mentali
-  * Roigada
   * Zarbi 
   * Qubutoké
   * Foretress 
@@ -193,7 +188,6 @@ One prize only.
   * Latias
   * Groudon
   * Rayquaza
-  * Jirachi
   * Deoxis (formes Attaque, defense & vitesse)
   * Morpheo (formes eau, feu & glace)
 </details>
@@ -230,7 +224,6 @@ One prize only.
   * Ecayon
   * Lumineon
   * Bouldeneu
-  * Elekable
   * Togekiss
   * Mamochon
   * Galame
@@ -244,7 +237,7 @@ One prize only.
   * Darkrai
   * Shaimin (forme hérisson)
   * Arceus
-  * Motisma (formes feu, glace, eau, vol & plante)
+  * Motisma (formes feu, glace, eau)
 </details>
 
 <details>
@@ -284,7 +277,6 @@ One prize only.
   * Baggiguane
   * Tutankafer
   * Carapagos
-  * Megapagos
   * Arkeapti
   * Aeropterix
   * Miamiasme
@@ -331,12 +323,10 @@ One prize only.
 
   * Boguérisse
   * Blindépique
-  * Grenousse
   * Croaporal
   * Amphinobi
   * Excavarenne
   * Nemelios (femelle)
-  * Pandespiegle
   * Couafarelle
   * Psystigri
   * Mistigrix (male & femelle)
@@ -376,7 +366,6 @@ One prize only.
   * Piclairon
   * Bazoucan
   * Lucanon
-  * Crabagarre
   * Plumeline (rose & bleu)
   * Lougaroc (nuit et crepuscule)
   * Froussardine (les 2 formes)
@@ -387,14 +376,12 @@ One prize only.
   * Floramantis
   * Spododo
   * Lampignon
-  * Malamandre
   * Sucreine
   * Guerilande
   * Quatermac
   * Type:0
   * Silvalié
   * Meteno (toutes les formes sauf le rose)
-  * Boumata
   * Togedemaru
   * Mimiqui
   * Sinistrail
@@ -445,16 +432,10 @@ One prize only.
   <summary>Galar</summary>
 
   * Badabouin
-  * Flambino
-  * Lapyro
-  * Pyrobut
   * Arrozard
   * Roublenard
   * Tournicoton
-  * Blancoton
-  * Moumouflon
   * Khélocrok
-  * Targamord
   * Wagomine
   * Monthracite
   * Pomdrapi
@@ -463,9 +444,7 @@ One prize only.
   * Embrochet
   * Hastacudo
   * Krakos
-  * Grimalin
   * Fourbelin
-  * Angoliath
   * Ixon
   * M. Glaquette
   * Tutékri
@@ -478,7 +457,6 @@ One prize only.
   * Galvagla
   * Hydragon
   * Hydragla
-  * Duralugon
   * Fantyrm
   * Zamazenta
   * Ethernatos
@@ -536,7 +514,6 @@ One prize only.
   * Miascarade
   * Flamigator
   * Ampibidou
-  * Vrombotor
   * Floreclat
   * Courousinge
   * Terraiste
