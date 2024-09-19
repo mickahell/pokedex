@@ -30,7 +30,6 @@ One prize only.
   * Raflesia
   * Mimitos 
   * Aeromith 
-  * Persian
   * Arcanin
   * Tetarte
   * Kadabra 
@@ -280,7 +279,6 @@ One prize only.
   * Arkeapti
   * Aeropterix
   * Miamiasme
-  * Zoroark
   * Nucleos
   * Couaneton
   * Lakmecygne
@@ -297,9 +295,6 @@ One prize only.
   * Ohmassacre
   * Neitram
   * Lugulabre
-  * Coupenotte
-  * Incisache
-  * Tranchodon
   * Limaspeed
   * Limonde
   * Drakkarmin
@@ -315,7 +310,6 @@ One prize only.
   * Demeteros (les 2 formes)
   * Kyurem (white & black)
   * Meloetta (les 2 formes)
-  * Genesect
 </details>
 
 <details>
@@ -327,7 +321,6 @@ One prize only.
   * Amphinobi
   * Excavarenne
   * Nemelios (femelle)
-  * Couafarelle
   * Psystigri
   * Mistigrix (male & femelle)
   * Dimocles
@@ -356,8 +349,6 @@ One prize only.
 <details>
   <summary>Alola</summary>
 
-  * Effleche
-  * Archeduc
   * Felinferno
   * Otaquin
   * Otarlette
@@ -390,7 +381,6 @@ One prize only.
   * Ekaiser
   * Tokoriko
   * Tokopillon
-  * Tokotoro
   * Tokopisco
   * Cosmog
   * Cosmovum
@@ -451,8 +441,6 @@ One prize only.
   * Cremy
   * Charmilly
   * Bekaglacon (forme tete ronde)
-  * Charibari
-  * Pachyradjah
   * Galvagon
   * Galvagla
   * Hydragon
@@ -518,7 +506,6 @@ One prize only.
   * Courousinge
   * Terraiste
   * Pelage sablé
-  * Mite de fer
   * Gromago
   * Serpente eau
   * Vert de fer
@@ -532,5 +519,4 @@ One prize only.
   * Terapagos (les 2 formes)
   * Pechaminus
   * Tauros (forme eau)
-  * Ursaking (forme vermeille)
 </details>
