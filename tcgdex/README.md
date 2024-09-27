@@ -107,8 +107,7 @@ One prize only.
   * Corayon 
   * Demanta 
   * Phampi 
-  * Donphan 
-  * Cerfrousse 
+  * Donphan  
   * Queulorior
   * Debugan 
   * Lipouti 
@@ -413,7 +412,6 @@ One prize only.
   * Gravalanch
   * Grolem
   * Tadmorv
-  * Grotadmorv
   * Noadkoko
   * Ossatueur
 </details>
@@ -452,7 +450,6 @@ One prize only.
   * Shifours (les 2 formes)
   * Zarude
   * Regieleki
-  * Blizzeval
   * Spectreval
   * Sylveroi (les 3 formes)
   * Smoggogo
