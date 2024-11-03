@@ -26,7 +26,6 @@ One prize only.
   * Nidoran
   * Nidorina 
   * Nidoking 
-  * Feunard 
   * Raflesia
   * Mimitos 
   * Aeromith 
@@ -116,7 +115,6 @@ One prize only.
   * Raikou 
   * Suicune 
   * Lugia
-  * Ho oh
   * CElebi
 </details>
 
@@ -222,7 +220,6 @@ One prize only.
   * Ecayon
   * Lumineon
   * Bouldeneu
-  * Togekiss
   * Mamochon
   * Galame
   * Momartik
@@ -230,7 +227,7 @@ One prize only.
   * Crefadet
   * Crefodet
   * Dialgo (forme originelle)
-  * Palkia (les 2 formes)
+  * Palkia (forme originelle)
   * Giratina (les 2 formes)
   * Darkrai
   * Shaimin (forme hérisson)
@@ -260,7 +257,6 @@ One prize only.
   * Nodulithe
   * Geolithe
   * Chovsourir
-  * Minotaupe
   * Betochef
   * Tritonde
   * Crapuscule
@@ -306,7 +302,7 @@ One prize only.
   * Boreas (totemique)
   * Fulguris (totemique)
   * Reshiram
-  * Demeteros (les 2 formes)
+  * Demeteros (totemique)
   * Kyurem (white & black)
   * Meloetta (les 2 formes)
 </details>
@@ -320,7 +316,6 @@ One prize only.
   * Amphinobi
   * Excavarenne
   * Nemelios (femelle)
-  * Psystigri
   * Mistigrix (male & femelle)
   * Dimocles
   * Exagide
@@ -364,11 +359,8 @@ One prize only.
   * Araqua
   * Tarenbulle
   * Floramantis
-  * Spododo
-  * Lampignon
   * Sucreine
   * Guerilande
-  * Quatermac
   * Type:0
   * Silvalié
   * Meteno (toutes les formes sauf le rose)
@@ -404,7 +396,6 @@ One prize only.
   * Sablaireau
   * Goupix
   * Feunard
-  * Taupiqueur
   * Triopikeur
   * Miasous
   * Persian
@@ -431,7 +422,6 @@ One prize only.
   * Nigosier
   * Embrochet
   * Hastacudo
-  * Krakos
   * Fourbelin
   * Ixon
   * M. Glaquette
@@ -511,7 +501,6 @@ One prize only.
   * Ogerpon (toutes les formes)
   * Pondralugon
   * Pomdorochi
-  * Feu perçant
   * Ire foudre
   * Terapagos (les 2 formes)
   * Pechaminus
