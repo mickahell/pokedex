@@ -504,5 +504,4 @@ One prize only.
   * Ire foudre
   * Terapagos (les 2 formes)
   * Pechaminus
-  * Tauros (forme eau)
 </details>
