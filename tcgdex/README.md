@@ -6,11 +6,8 @@ One prize only.
   <summary>Kanto</summary>
 
   * Florizare
-  * Dracaufeu
-  * Chrisacier 
+  * Dracaufeu 
   * Papilusion
-  * Asticot
-  * Conconfort
   * Dardagnan 
   * Roucoups 
   * Roucarnage
@@ -18,8 +15,6 @@ One prize only.
   * Ratatac
   * Rapasdepic
   * Abo 
-  * Sabelette 
-  * Sablaireau
   * Nidoran
   * Nidorino 
   * Nidoqueen 
@@ -34,30 +29,17 @@ One prize only.
   * Kadabra 
   * Alakazam
   * Mackogneur
-  * Chetiflor
   * Boustiflor
   * Empiflor 
-  * Tentacruelle
-  * Racaillou
   * Grolem 
-  * Galopa
   * Doduo 
   * Dotrio
-  * Crustabri
   * Krabi 
-  * Kraboss
-  * Noeunoeuf
   * Osselait
   * Osateur
   * Kiklee 
-  * Tignon 
-  * Smogo 
-  * Smogogo
-  * Rhinocéros
-  * Sacdeneu
-  * Kangourex 
-  * Poissirene 
-  * Poissonroi 
+  * Tignon  
+  * Kangourex   
   * M.mime (normal)
   * Scarabrute
   * Aquali
@@ -263,7 +245,6 @@ One prize only.
   * Judokrak
   * Larveyette
   * Manternelle
-  * Brutapode
   * Fragilady
   * Bargantua (Rouge & bleu)
   * Darumacho (les 2 formes)
@@ -446,7 +427,6 @@ One prize only.
   * Corayon
   * Ponyta
   * Galopa
-  * Ramoloss
   * Flagadoss
   * Roigada
   * Artikodin
@@ -468,7 +448,6 @@ One prize only.
   * Farfurex
   * Qwilpik
   * Amovenus (les 2 formes)
-  * Voltorbe
   * Electrode
   * Typhlosion
   * Qwilfish
