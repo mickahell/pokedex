@@ -35,7 +35,6 @@ One prize only.
   * Doduo 
   * Dotrio
   * Krabi 
-  * Osselait
   * Osateur
   * Kiklee 
   * Tignon  
@@ -147,7 +146,6 @@ One prize only.
   * Barloche
   * Barbicha
   * Lilia
-  * Vacilys
   * Anorith
   * Armaldo
   * Kekleon
@@ -345,7 +343,6 @@ One prize only.
   * Type:0
   * Silvalié
   * Meteno (toutes les formes sauf le rose)
-  * Togedemaru
   * Mimiqui
   * Sinistrail
   * Bebecaille
@@ -394,7 +391,6 @@ One prize only.
   * Badabouin
   * Arrozard
   * Roublenard
-  * Tournicoton
   * Khélocrok
   * Wagomine
   * Monthracite
@@ -403,7 +399,6 @@ One prize only.
   * Nigosier
   * Embrochet
   * Hastacudo
-  * Fourbelin
   * Ixon
   * M. Glaquette
   * Tutékri
