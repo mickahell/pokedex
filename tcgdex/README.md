@@ -10,36 +10,26 @@ One prize only.
   * Papilusion
   * Dardagnan 
   * Roucoups 
-  * Roucarnage
-  * Ratata 
+  * Roucarnage 
   * Ratatac
   * Rapasdepic
   * Abo 
-  * Nidoran
   * Nidorino 
   * Nidoqueen 
-  * Nidoran
   * Nidorina 
   * Nidoking 
-  * Raflesia
-  * Mimitos 
+  * Raflesia 
   * Aeromith 
   * Arcanin
   * Tetarte
   * Kadabra 
   * Alakazam
-  * Mackogneur
-  * Boustiflor
   * Empiflor 
-  * Grolem 
-  * Doduo 
-  * Dotrio
-  * Krabi 
-  * Osateur
-  * Kiklee 
+  * Grolem  
+  * Dotrio 
+  * Osateur 
   * Tignon  
   * Kangourex   
-  * M.mime (normal)
   * Scarabrute
   * Aquali
   * Voltali 
@@ -51,20 +41,16 @@ One prize only.
   * Ptera 
   * Articodin 
   * Elector 
-  * Sulfura
-  * Draco 
+  * Sulfura 
   * Mewtho 
 </details>
 
 <details>
   <summary>Johto</summary>
 
-  * Germignon
   * Meganium 
-  * Macronium 
-  * Feurisson 
+  * Macronium  
   * Typhlosion
-  * Fouinette
   * Fouinard
   * Pichu 
   * Toudoudou 
@@ -79,7 +65,6 @@ One prize only.
   * Zarbi 
   * Qubutoké
   * Foretress 
-  * Qwilfish
   * Caratroc
   * Tedioursa
   * Marcacrin 
@@ -91,8 +76,7 @@ One prize only.
   * Queulorior
   * Debugan 
   * Lipouti 
-  * Elekid 
-  * Ecremeuh 
+  * Elekid  
   * Raikou 
   * Suicune 
   * Lugia
@@ -102,14 +86,8 @@ One prize only.
 <details>
   <summary>Hoenn</summary>
 
-  * Massko
   * Jungko
-  * Galifeu
   * Brasegali
-  * Gobou
-  * Flobio
-  * Laggron
-  * Zigzaton
   * Lineon
   * Charmillon
   * Blindalisse
@@ -121,17 +99,12 @@ One prize only.
   * Nirondelle
   * Helldelle
   * Gardevoir
-  * Paresscool
   * Monaflemit
-  * Ningale
   * Ninjask
   * Munja
   * Hariyama
   * Azurill
-  * Skity
-  * Delcatty
   * Galeking
-  * Negapi
   * Luciole
   * Lumivole
   * Gloupti
@@ -139,20 +112,14 @@ One prize only.
   * Sharpedo
   * Wailmer
   * Wailord
-  * Spoing
   * Groret
-  * Tilton
   * Altaria
   * Barloche
   * Barbicha
   * Lilia
-  * Anorith
   * Armaldo
   * Kekleon
-  * Teraclop
   * Okéoké
-  * Obali
-  * Phogleur
   * Kaimorse
   * Coquiperl
   * Serpang
@@ -186,14 +153,10 @@ One prize only.
   * Chaglam
   * Chafreu
   * Korillon
-  * Moufouette
   * Moufflair
   * Mime Jr
   * Ptiravi
   * Carchacrok
-  * Goinfrex
-  * Hippopotas
-  * Hoppodocus
   * Rapion
   * Drascor
   * Vortente
@@ -203,7 +166,6 @@ One prize only.
   * Mamochon
   * Galame
   * Momartik
-  * Creelf
   * Crefadet
   * Crefodet
   * Dialgo (forme originelle)
@@ -218,69 +180,49 @@ One prize only.
 <details>
   <summary>Unys</summary>
 
-  * Vipelierre
   * Lianaja
   * Majaspic
   * Grokui
   * Grotichon
   * Roitiflam
-  * Moustillon
-  * Mateloutre
   * Clamiral
-  * Ratentif
   * Miradar
   * Ponchien
   * Mastouffe
   * Feuilloutan
   * Mushana
-  * Zebibron
   * Nodulithe
   * Geolithe
-  * Chovsourir
   * Betochef
-  * Tritonde
   * Crapuscule
   * Judokrak
-  * Larveyette
   * Manternelle
-  * Fragilady
   * Bargantua (Rouge & bleu)
   * Darumacho (les 2 formes)
   * Crabaraque
-  * Baggiguane
-  * Tutankafer
   * Carapagos
   * Arkeapti
   * Aeropterix
-  * Miamiasme
-  * Nucleos
-  * Couaneton
   * Lakmecygne
-  * Sorboul
   * Vivaldain (les 4 formes)
   * Haydaim (les 4 formes)
-  * Carabing
   * Lancargot
   * Gaulet
   * Viskuse (les 2 formes)
   * Moyade (les 2 formes)
-  * Clic
   * Cliticlic
   * Ohmassacre
   * Neitram
   * Lugulabre
-  * Limaspeed
   * Limonde
   * Drakkarmin
   * Gueriaigle
-  * Vostourno
   * Vaututrice
   * Trioxhydre
   * Terrakium
   * Viridium
   * Boreas (totemique)
   * Fulguris (totemique)
-  * Reshiram
   * Demeteros (totemique)
   * Kyurem (white & black)
   * Meloetta (les 2 formes)
@@ -291,14 +233,12 @@ One prize only.
 
   * Boguérisse
   * Blindépique
-  * Croaporal
   * Amphinobi
   * Excavarenne
   * Nemelios (femelle)
-  * Mistigrix (male & femelle)
+  * Mistigrix (male)
   * Dimocles
   * Exagide
-  * Fluvetin
   * Cocotine
   * Cupcanaille
   * Oppermine
@@ -308,10 +248,7 @@ One prize only.
   * Amagara
   * Dragmara
   * Strassie
-  * Colimucus
-  * Muplodocus
   * Desseliandre
-  * Grelacon
   * Bruyverne
   * Xerneas
   * Zygarde (formes chien & 100%)
@@ -346,12 +283,10 @@ One prize only.
   * Mimiqui
   * Sinistrail
   * Bebecaille
-  * Ecaid
   * Ekaiser
   * Tokoriko
   * Tokopillon
   * Tokopisco
-  * Cosmog
   * Cosmovum
   * Solgaleo
   * Lunala
@@ -420,7 +355,6 @@ One prize only.
   * Sylveroi (les 3 formes)
   * Smoggogo
   * Corayon
-  * Ponyta
   * Galopa
   * Flagadoss
   * Roigada
