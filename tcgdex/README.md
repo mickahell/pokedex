@@ -42,8 +42,7 @@ One prize only.
   * Debugan 
   * Lipouti 
   * Elekid  
-  * Raikou 
-  * Suicune 
+  * Raikou  
   * Lugia
   * CElebi
 </details>
@@ -106,7 +105,6 @@ One prize only.
   * Pingoleon
   * Crikzik
   * Melocrik
-  * Rozbouton
   * Charkos
   * Dinoclier
   * Bastiodon
@@ -114,7 +112,6 @@ One prize only.
   * Papilord
   * Apireine
   * Ceriflor
-  * Lockpin
   * Chaglam
   * Chafreu
   * Korillon
@@ -204,7 +201,6 @@ One prize only.
   * Mistigrix (male)
   * Dimocles
   * Exagide
-  * Cocotine
   * Cupcanaille
   * Oppermine
   * Kravarech
@@ -309,7 +305,6 @@ One prize only.
   * Galvagla
   * Hydragon
   * Hydragla
-  * Fantyrm
   * Zamazenta
   * Ethernatos
   * Wushours
