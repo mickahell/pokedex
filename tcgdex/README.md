@@ -5,44 +5,9 @@ One prize only.
 <details>
   <summary>Kanto</summary>
 
-  * Florizare
   * Dracaufeu 
-  * Papilusion
-  * Dardagnan 
-  * Roucoups 
-  * Roucarnage 
-  * Ratatac
-  * Rapasdepic
-  * Abo 
-  * Nidorino 
-  * Nidoqueen 
-  * Nidorina 
-  * Nidoking 
-  * Raflesia 
-  * Aeromith 
-  * Arcanin
-  * Tetarte
-  * Kadabra 
-  * Alakazam
-  * Empiflor 
-  * Grolem  
-  * Dotrio 
-  * Osateur 
-  * Tignon  
-  * Kangourex   
-  * Scarabrute
-  * Aquali
-  * Voltali 
-  * Pyroli 
-  * Amonita 
-  * Amonistar
-  * Kabuto 
-  * Kabutops
-  * Ptera 
-  * Articodin 
-  * Elector 
-  * Sulfura 
-  * Mewtho 
+  * Dardagnan            
+  * Grolem                
 </details>
 
 <details>
@@ -358,9 +323,6 @@ One prize only.
   * Galopa
   * Flagadoss
   * Roigada
-  * Artikodin
-  * Elektor
-  * Sulfura
   * Zigzaton
   * Lineon
   * Darumacho (les 2 formes)
