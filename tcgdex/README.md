@@ -73,7 +73,6 @@ One prize only.
   * Lumivole
   * Gloupti
   * Avaltou
-  * Sharpedo
   * Wailmer
   * Wailord
   * Groret
@@ -285,7 +284,6 @@ One prize only.
   <summary>Galar</summary>
 
   * Badabouin
-  * Arrozard
   * Roublenard
   * Khélocrok
   * Wagomine
