@@ -92,7 +92,6 @@ One prize only.
   * Regice
   * Registell
   * Latias
-  * Groudon
   * Rayquaza
   * Deoxis (formes Attaque, defense & vitesse)
   * Morpheo (formes eau, feu & glace)
