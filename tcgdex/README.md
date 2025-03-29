@@ -33,7 +33,6 @@ One prize only.
   * Caratroc
   * Tedioursa
   * Marcacrin 
-  * Cochignon
   * Corayon 
   * Demanta 
   * Phampi 
@@ -56,7 +55,6 @@ One prize only.
   * Charmillon
   * Blindalisse
   * Papinox
-  * Nenupio
   * Lombre
   * Ludicolo
   * Granipio
@@ -89,7 +87,6 @@ One prize only.
   * Rosabyss
   * Dratak
   * Regirock
-  * Regice
   * Registell
   * Latias
   * Rayquaza
@@ -166,7 +163,6 @@ One prize only.
   * Lakmecygne
   * Vivaldain (les 4 formes)
   * Haydaim (les 4 formes)
-  * Lancargot
   * Gaulet
   * Viskuse (les 2 formes)
   * Moyade (les 2 formes)
