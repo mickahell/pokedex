@@ -361,5 +361,4 @@ One prize only.
   * Pomdorochi
   * Ire foudre
   * Terapagos (les 2 formes)
-  * Pechaminus
 </details>
