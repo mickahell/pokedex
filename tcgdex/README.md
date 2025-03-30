@@ -355,7 +355,6 @@ One prize only.
   * Serpente eau
   * Vert de fer
   * Poltchageist
-  * Fortusimia
   * Ogerpon (toutes les formes)
   * Pondralugon
   * Pomdorochi
