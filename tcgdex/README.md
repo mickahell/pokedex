@@ -5,9 +5,7 @@ One prize only.
 <details>
   <summary>Kanto</summary>
 
-  * Dracaufeu 
-  * Dardagnan            
-  * Grolem                
+  * Dracaufeu                
 </details>
 
 <details>
@@ -18,32 +16,15 @@ One prize only.
   * Typhlosion
   * Fouinard
   * Pichu 
-  * Toudoudou 
-  * Pharamp 
-  * Joligleur 
-  * Tarpau 
-  * Granivol 
-  * Cotovol 
+  * Toudoudou  
+  * Joligleur    
   * Axoloto 
   * Maraiste
-  * Mentali
-  * Zarbi 
-  * Qubutoké
-  * Foretress 
-  * Caratroc
-  * Tedioursa
-  * Marcacrin 
-  * Corayon 
-  * Demanta 
-  * Phampi 
-  * Donphan  
-  * Queulorior
-  * Debugan 
-  * Lipouti 
-  * Elekid  
+  * Zarbi   
+  * Corayon     
+  * Debugan    
   * Raikou  
   * Lugia
-  * CElebi
 </details>
 
 <details>
@@ -344,20 +325,7 @@ One prize only.
 <details>
   <summary>Paldea</summary>
 
-  * Miascarade
-  * Flamigator
-  * Ampibidou
-  * Floreclat
-  * Courousinge
-  * Terraiste
-  * Pelage sablé
-  * Gromago
-  * Serpente eau
-  * Vert de fer
-  * Poltchageist
-  * Ogerpon (toutes les formes)
-  * Pondralugon
+  * Ogerpon (eau feu roche)
   * Pomdorochi
-  * Ire foudre
-  * Terapagos (les 2 formes)
+  * Terapagos (forme petit)
 </details>
