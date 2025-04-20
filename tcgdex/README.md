@@ -72,7 +72,7 @@ One prize only.
   * Latias
   * Rayquaza
   * Deoxis (formes Attaque, defense & vitesse)
-  * Morpheo (formes eau, feu & glace)
+  * Morpheo (formes eau, feu)
 </details>
 
 <details>
