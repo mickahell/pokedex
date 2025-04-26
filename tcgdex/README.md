@@ -226,7 +226,6 @@ One prize only.
   * Sablaireau
   * Goupix
   * Feunard
-  * Triopikeur
   * Miasous
   * Persian
   * Racaillou
@@ -265,12 +264,9 @@ One prize only.
   * Spectreval
   * Sylveroi (les 3 formes)
   * Smoggogo
-  * Corayon
   * Galopa
   * Flagadoss
   * Roigada
-  * Zigzaton
-  * Lineon
   * Darumacho (les 2 formes)
   * Tutafeh
 </details>
