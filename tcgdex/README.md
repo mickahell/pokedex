@@ -38,7 +38,6 @@ One prize only.
   * Papinox
   * Lombre
   * Ludicolo
-  * Granipio
   * Nirondelle
   * Helldelle
   * Gardevoir
@@ -47,7 +46,6 @@ One prize only.
   * Munja
   * Hariyama
   * Azurill
-  * Galeking
   * Luciole
   * Lumivole
   * Gloupti
@@ -56,15 +54,12 @@ One prize only.
   * Wailord
   * Groret
   * Altaria
-  * Barloche
   * Barbicha
   * Lilia
   * Armaldo
-  * Kekleon
   * Okéoké
   * Kaimorse
   * Coquiperl
-  * Serpang
   * Rosabyss
   * Dratak
   * Regirock
@@ -79,13 +74,11 @@ One prize only.
   <summary>Sinnoh</summary>
 
   * Pingoleon
-  * Crikzik
   * Melocrik
   * Charkos
   * Dinoclier
   * Bastiodon
   * Cheniselle (rose & jaune)
-  * Papilord
   * Apireine
   * Ceriflor
   * Chaglam
@@ -100,7 +93,6 @@ One prize only.
   * Vortente
   * Ecayon
   * Lumineon
-  * Bouldeneu
   * Mamochon
   * Galame
   * Momartik
@@ -127,14 +119,11 @@ One prize only.
   * Miradar
   * Ponchien
   * Mastouffe
-  * Feuilloutan
   * Mushana
   * Nodulithe
   * Geolithe
   * Betochef
   * Crapuscule
-  * Judokrak
-  * Manternelle
   * Bargantua (Rouge & bleu)
   * Darumacho (les 2 formes)
   * Crabaraque
@@ -142,19 +131,16 @@ One prize only.
   * Arkeapti
   * Aeropterix
   * Lakmecygne
-  * Vivaldain (les 4 formes)
+  * Vivaldain (printemps & été)
   * Haydaim (les 4 formes)
   * Gaulet
   * Viskuse (les 2 formes)
   * Moyade (les 2 formes)
   * Cliticlic
-  * Ohmassacre
-  * Neitram
   * Lugulabre
   * Limonde
   * Drakkarmin
   * Gueriaigle
-  * Vaututrice
   * Trioxhydre
   * Terrakium
   * Viridium
@@ -184,7 +170,6 @@ One prize only.
   * Amagara
   * Dragmara
   * Strassie
-  * Desseliandre
   * Bruyverne
   * Xerneas
   * Zygarde (formes chien & 100%)
@@ -202,22 +187,18 @@ One prize only.
   * Picassaut
   * Piclairon
   * Bazoucan
-  * Lucanon
   * Plumeline (rose & bleu)
   * Lougaroc (nuit et crepuscule)
-  * Froussardine (les 2 formes)
+  * Froussardine (forme banc)
   * Predasterie
   * Bourinos
-  * Araqua
   * Tarenbulle
   * Floramantis
-  * Sucreine
   * Guerilande
   * Type:0
   * Silvalié
   * Meteno (toutes les formes sauf le rose)
   * Mimiqui
-  * Sinistrail
   * Bebecaille
   * Ekaiser
   * Tokoriko
@@ -261,13 +242,9 @@ One prize only.
 
   * Badabouin
   * Roublenard
-  * Khélocrok
-  * Wagomine
-  * Monthracite
   * Pomdrapi
   * Dratatin
   * Nigosier
-  * Embrochet
   * Hastacudo
   * Ixon
   * M. Glaquette
