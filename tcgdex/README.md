@@ -19,8 +19,7 @@ One prize only.
   * Toudoudou  
   * Joligleur    
   * Axoloto 
-  * Maraiste
-  * Zarbi   
+  * Zarbi (sauf w)
   * Corayon     
   * Debugan    
   * Raikou  
@@ -35,13 +34,11 @@ One prize only.
   * Lineon
   * Charmillon
   * Blindalisse
-  * Papinox
   * Lombre
   * Ludicolo
   * Nirondelle
   * Helldelle
   * Gardevoir
-  * Monaflemit
   * Ninjask
   * Munja
   * Hariyama
@@ -52,10 +49,7 @@ One prize only.
   * Avaltou
   * Wailmer
   * Wailord
-  * Groret
-  * Altaria
   * Barbicha
-  * Lilia
   * Armaldo
   * Okéoké
   * Kaimorse
@@ -74,7 +68,6 @@ One prize only.
   <summary>Sinnoh</summary>
 
   * Pingoleon
-  * Melocrik
   * Charkos
   * Dinoclier
   * Bastiodon
@@ -82,16 +75,11 @@ One prize only.
   * Apireine
   * Ceriflor
   * Chaglam
-  * Chafreu
   * Korillon
-  * Moufflair
   * Mime Jr
   * Ptiravi
-  * Carchacrok
   * Rapion
   * Drascor
-  * Vortente
-  * Ecayon
   * Lumineon
   * Mamochon
   * Galame
@@ -101,7 +89,6 @@ One prize only.
   * Dialgo (forme originelle)
   * Palkia (forme originelle)
   * Giratina (les 2 formes)
-  * Darkrai
   * Shaimin (forme hérisson)
   * Arceus
   * Motisma (formes feu, glace, eau)
@@ -128,8 +115,6 @@ One prize only.
   * Darumacho (les 2 formes)
   * Crabaraque
   * Carapagos
-  * Arkeapti
-  * Aeropterix
   * Lakmecygne
   * Vivaldain (printemps & été)
   * Haydaim (les 4 formes)
@@ -160,9 +145,7 @@ One prize only.
   * Excavarenne
   * Nemelios (femelle)
   * Mistigrix (male)
-  * Dimocles
   * Exagide
-  * Cupcanaille
   * Oppermine
   * Kravarech
   * Ptyranidur
@@ -204,7 +187,6 @@ One prize only.
   * Tokoriko
   * Tokopillon
   * Tokopisco
-  * Cosmovum
   * Solgaleo
   * Lunala
   * Zeroid
@@ -222,16 +204,11 @@ One prize only.
   * Pierroteknik
   * Melmetal
   * Raichu
-  * Sabelette
-  * Sablaireau
   * Goupix
   * Feunard
   * Miasous
   * Persian
-  * Racaillou
   * Gravalanch
-  * Grolem
-  * Tadmorv
   * Noadkoko
   * Ossatueur
 </details>
