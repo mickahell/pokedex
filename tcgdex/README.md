@@ -35,7 +35,6 @@ One prize only.
   * Charmillon
   * Blindalisse
   * Lombre
-  * Ludicolo
   * Nirondelle
   * Helldelle
   * Gardevoir
@@ -121,14 +120,12 @@ One prize only.
   * Gaulet
   * Viskuse (les 2 formes)
   * Moyade (les 2 formes)
-  * Cliticlic
   * Lugulabre
   * Limonde
   * Drakkarmin
   * Gueriaigle
   * Trioxhydre
   * Terrakium
-  * Viridium
   * Boreas (totemique)
   * Fulguris (totemique)
   * Demeteros (totemique)
@@ -153,7 +150,6 @@ One prize only.
   * Amagara
   * Dragmara
   * Strassie
-  * Bruyverne
   * Xerneas
   * Zygarde (formes chien & 100%)
   * Diancie
@@ -210,7 +206,6 @@ One prize only.
   * Persian
   * Gravalanch
   * Noadkoko
-  * Ossatueur
 </details>
 
 <details>
