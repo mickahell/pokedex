@@ -82,7 +82,6 @@ One prize only.
   * Lumineon
   * Mamochon
   * Galame
-  * Momartik
   * Crefadet
   * Crefodet
   * Dialgo (forme originelle)
@@ -141,7 +140,6 @@ One prize only.
   * Amphinobi
   * Excavarenne
   * Nemelios (femelle)
-  * Mistigrix (male)
   * Exagide
   * Oppermine
   * Kravarech
@@ -251,8 +249,7 @@ One prize only.
   * Ursaking
   * Paragruel (male & femelle)
   * Farfurex
-  * Qwilpik
-  * Amovenus (les 2 formes)
+  * Amovenus (forme tortue)
   * Electrode
   * Typhlosion
   * Qwilfish
