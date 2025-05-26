@@ -13,9 +13,7 @@ One prize only.
 
   * Meganium 
   * Macronium  
-  * Typhlosion
-  * Fouinard
-  * Pichu 
+  * Fouinard 
   * Toudoudou  
   * Joligleur    
   * Axoloto 
@@ -30,13 +28,10 @@ One prize only.
   <summary>Hoenn</summary>
 
   * Jungko
-  * Brasegali
   * Lineon
   * Charmillon
   * Blindalisse
   * Lombre
-  * Nirondelle
-  * Helldelle
   * Gardevoir
   * Ninjask
   * Munja
@@ -53,7 +48,6 @@ One prize only.
   * Okéoké
   * Kaimorse
   * Coquiperl
-  * Rosabyss
   * Dratak
   * Regirock
   * Registell
@@ -74,7 +68,6 @@ One prize only.
   * Apireine
   * Ceriflor
   * Chaglam
-  * Korillon
   * Mime Jr
   * Ptiravi
   * Rapion
@@ -87,9 +80,8 @@ One prize only.
   * Dialgo (forme originelle)
   * Palkia (forme originelle)
   * Giratina (les 2 formes)
-  * Shaimin (forme hérisson)
   * Arceus
-  * Motisma (formes feu, glace, eau)
+  * Motisma (formes glace, eau)
 </details>
 
 <details>
@@ -111,7 +103,6 @@ One prize only.
   * Crapuscule
   * Bargantua (Rouge & bleu)
   * Darumacho (les 2 formes)
-  * Crabaraque
   * Carapagos
   * Lakmecygne
   * Vivaldain (printemps & été)
@@ -168,7 +159,6 @@ One prize only.
   * Lougaroc (nuit et crepuscule)
   * Froussardine (forme banc)
   * Predasterie
-  * Bourinos
   * Tarenbulle
   * Floramantis
   * Guerilande
@@ -214,7 +204,6 @@ One prize only.
   * Pomdrapi
   * Dratatin
   * Nigosier
-  * Hastacudo
   * Ixon
   * M. Glaquette
   * Tutékri
@@ -225,7 +214,6 @@ One prize only.
   * Galvagla
   * Hydragon
   * Hydragla
-  * Zamazenta
   * Ethernatos
   * Wushours
   * Shifours (les 2 formes)
@@ -267,7 +255,6 @@ One prize only.
 <details>
   <summary>Paldea</summary>
 
-  * Ogerpon (eau feu roche)
-  * Pomdorochi
+  * Ogerpon (feu)
   * Terapagos (forme petit)
 </details>
