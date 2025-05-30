@@ -47,10 +47,8 @@ One prize only.
   * Armaldo
   * Okéoké
   * Kaimorse
-  * Coquiperl
   * Dratak
   * Regirock
-  * Registell
   * Latias
   * Rayquaza
   * Deoxis (formes Attaque, defense & vitesse)
@@ -138,7 +136,6 @@ One prize only.
   * Rexilius
   * Amagara
   * Dragmara
-  * Strassie
   * Xerneas
   * Zygarde (formes chien & 100%)
   * Diancie
@@ -255,6 +252,6 @@ One prize only.
 <details>
   <summary>Paldea</summary>
 
-  * Ogerpon (feu)
+  * Tapatoes (toutes sauf le vert)
   * Terapagos (forme petit)
 </details>
