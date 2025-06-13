@@ -63,14 +63,10 @@ One prize only.
   * Dinoclier
   * Bastiodon
   * Cheniselle (rose & jaune)
-  * Apireine
   * Ceriflor
-  * Chaglam
-  * Mime Jr
   * Ptiravi
   * Rapion
   * Drascor
-  * Lumineon
   * Mamochon
   * Galame
   * Crefadet
@@ -79,7 +75,7 @@ One prize only.
   * Palkia (forme originelle)
   * Giratina (les 2 formes)
   * Arceus
-  * Motisma (formes glace, eau)
+  * Motisma (formes glace)
 </details>
 
 <details>
@@ -196,25 +192,16 @@ One prize only.
 <details>
   <summary>Galar</summary>
 
-  * Badabouin
-  * Roublenard
-  * Pomdrapi
-  * Dratatin
-  * Nigosier
   * Ixon
   * M. Glaquette
   * Tutékri
-  * Cremy
-  * Charmilly
   * Bekaglacon (forme tete ronde)
   * Galvagon
   * Galvagla
   * Hydragon
   * Hydragla
-  * Ethernatos
   * Wushours
   * Shifours (les 2 formes)
-  * Zarude
   * Regieleki
   * Spectreval
   * Sylveroi (les 3 formes)
