@@ -5,7 +5,9 @@ One prize only.
 <details>
   <summary>Kanto</summary>
 
-  * Dracaufeu                
+  * Dracaufeu
+  * Mewtwo armure
+  * Mew antique
 </details>
 
 <details>
