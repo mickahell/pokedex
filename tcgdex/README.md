@@ -12,8 +12,7 @@ One prize only.
   <summary>Johto</summary>
 
   * Meganium 
-  * Macronium  
-  * Fouinard 
+  * Macronium   
   * Toudoudou  
   * Joligleur    
   * Axoloto 
@@ -28,28 +27,14 @@ One prize only.
   <summary>Hoenn</summary>
 
   * Jungko
-  * Lineon
   * Charmillon
   * Blindalisse
-  * Lombre
-  * Gardevoir
   * Ninjask
   * Munja
-  * Hariyama
   * Azurill
-  * Luciole
-  * Lumivole
-  * Gloupti
-  * Avaltou
-  * Wailmer
-  * Wailord
-  * Barbicha
   * Armaldo
   * Okéoké
-  * Kaimorse
   * Dratak
-  * Regirock
-  * Latias
   * Rayquaza
   * Deoxis (formes Attaque, defense & vitesse)
   * Morpheo (formes eau, feu)
@@ -123,19 +108,14 @@ One prize only.
   * Boguérisse
   * Blindépique
   * Amphinobi
-  * Excavarenne
   * Nemelios (femelle)
-  * Exagide
-  * Oppermine
   * Kravarech
   * Ptyranidur
   * Rexilius
   * Amagara
   * Dragmara
-  * Xerneas
-  * Zygarde (formes chien & 100%)
-  * Diancie
-  * Hoopa (les 2 formes)
+  * Zygarde (forme 100%)
+  * Hoopa (forme petit)
 </details>
 
 <details>
@@ -153,12 +133,10 @@ One prize only.
   * Froussardine (forme banc)
   * Predasterie
   * Tarenbulle
-  * Floramantis
   * Guerilande
   * Type:0
   * Silvalié
   * Meteno (toutes les formes sauf le rose)
-  * Mimiqui
   * Bebecaille
   * Ekaiser
   * Tokoriko
@@ -185,7 +163,6 @@ One prize only.
   * Feunard
   * Miasous
   * Persian
-  * Gravalanch
   * Noadkoko
 </details>
 
@@ -222,15 +199,9 @@ One prize only.
   * Paragruel (male & femelle)
   * Farfurex
   * Amovenus (forme tortue)
-  * Electrode
   * Typhlosion
-  * Qwilfish
-  * Farfuret
   * Clamiral
-  * Fragilady
-  * Zorua
   * Zoroark
-  * Colimucus
   * Muplodocus
   * Seracrawl
   * Archeduc
