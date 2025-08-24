@@ -68,33 +68,25 @@ One prize only.
 <details>
   <summary>Unys</summary>
 
-  * Lianaja
   * Majaspic
-  * Grokui
   * Grotichon
   * Roitiflam
-  * Clamiral
   * Miradar
   * Ponchien
   * Mastouffe
-  * Mushana
   * Nodulithe
   * Geolithe
-  * Betochef
-  * Crapuscule
-  * Bargantua (Rouge & bleu)
-  * Darumacho (les 2 formes)
+  * Bargantua (bleu)
+  * Darumacho (forme totenmik)
   * Carapagos
   * Lakmecygne
-  * Vivaldain (printemps & été)
-  * Haydaim (les 4 formes)
+  * Vivaldain (été)
+  * Haydaim (hiver & été)
   * Gaulet
   * Viskuse (les 2 formes)
   * Moyade (les 2 formes)
-  * Lugulabre
+  * Melancolux
   * Limonde
-  * Drakkarmin
-  * Gueriaigle
   * Trioxhydre
   * Terrakium
   * Boreas (totemique)
@@ -130,7 +122,7 @@ One prize only.
   * Picassaut
   * Piclairon
   * Bazoucan
-  * Plumeline (rose & bleu)
+  * Plumeline (bleu)
   * Lougaroc (nuit et crepuscule)
   * Froussardine (forme banc)
   * Predasterie
@@ -188,7 +180,7 @@ One prize only.
   * Galopa
   * Flagadoss
   * Roigada
-  * Darumacho (les 2 formes)
+  * Darumacho (totemique)
   * Tutafeh
 </details>
 
@@ -198,7 +190,7 @@ One prize only.
   * Cerbylin
   * Hachecateur
   * Ursaking
-  * Paragruel (male & femelle)
+  * Paragruel (femelle)
   * Farfurex
   * Amovenus (forme tortue)
   * Typhlosion
