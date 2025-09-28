@@ -14,7 +14,6 @@ One prize only.
   <summary>Johto</summary>
 
   * Meganium 
-  * Macronium   
   * Toudoudou  
   * Joligleur    
   * Axoloto 
@@ -32,7 +31,6 @@ One prize only.
   * Charmillon
   * Blindalisse
   * Ninjask
-  * Munja
   * Azurill
   * Armaldo
   * Okéoké
