@@ -192,7 +192,6 @@ One prize only.
   * Farfurex
   * Amovenus (forme tortue)
   * Typhlosion
-  * Clamiral
   * Zoroark
   * Muplodocus
   * Seracrawl
