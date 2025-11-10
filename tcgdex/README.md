@@ -12,8 +12,7 @@ One prize only.
 
 <details>
   <summary>Johto</summary>
-
-  * Meganium 
+ 
   * Toudoudou  
   * Joligleur    
   * Axoloto 
