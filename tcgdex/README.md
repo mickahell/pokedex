@@ -34,7 +34,6 @@ One prize only.
   * Armaldo
   * Okéoké
   * Dratak
-  * Rayquaza
   * Deoxis (formes Attaque, defense & vitesse)
   * Morpheo (formes eau, feu)
 </details>
@@ -49,8 +48,6 @@ One prize only.
   * Cheniselle (rose & jaune)
   * Ceriflor
   * Ptiravi
-  * Rapion
-  * Drascor
   * Mamochon
   * Galame
   * Crefadet
@@ -65,8 +62,6 @@ One prize only.
 <details>
   <summary>Unys</summary>
 
-  * Majaspic
-  * Grotichon
   * Roitiflam
   * Miradar
   * Ponchien
@@ -101,10 +96,7 @@ One prize only.
   * Amphinobi
   * Nemelios (femelle)
   * Kravarech
-  * Ptyranidur
-  * Rexilius
   * Amagara
-  * Dragmara
   * Zygarde (forme 100%)
   * Hoopa (forme petit)
 </details>
