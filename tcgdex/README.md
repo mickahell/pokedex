@@ -125,7 +125,7 @@ One prize only.
   * Armaldo
   * Okéoké
   * Dratak
-  * Deoxis (formes Attaque, defense & vitesse)
+  * Deoxis (formes vitesse)
   * Morpheo (formes eau, feu)
 </details>
 
@@ -154,7 +154,6 @@ One prize only.
   <summary>Unys</summary>
 
   * Roitiflam
-  * Miradar
   * Ponchien
   * Mastouffe
   * Nodulithe
@@ -182,7 +181,6 @@ One prize only.
 <details>
   <summary>Kalos</summary>
 
-  * Boguérisse
   * Blindépique
   * Amphinobi
   * Nemelios (femelle)
