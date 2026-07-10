@@ -85,7 +85,6 @@ One prize only.
   * Méga-Sarmuraï
   * Méga-Draïeul
   * Méga-Magearna
-  * Méga-Zeraora
   * Méga-Hexadron
   * Méga-Scovilain
   * Méga-Floréclat
@@ -194,20 +193,14 @@ One prize only.
   <summary>Alola</summary>
 
   * Felinferno
-  * Otaquin
   * Otarlette
   * Oratoria
-  * Picassaut
-  * Piclairon
-  * Bazoucan
   * Plumeline (bleu)
   * Lougaroc (nuit et crepuscule)
   * Froussardine (forme banc)
   * Predasterie
   * Tarenbulle
   * Guerilande
-  * Type:0
-  * Silvalié
   * Meteno (toutes les formes sauf le rose)
   * Bebecaille
   * Ekaiser
